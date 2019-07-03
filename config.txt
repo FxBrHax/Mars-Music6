@@ -1,4 +1,4 @@
-﻿token=NTQzMzkwNTM4MjM4NTI1NDQx.XRzVlQ.l-cRqtYf9VeGz6IpqPvSuBVgTVI
+token=NTQzMzkwNTM4MjM4NTI1NDQx.XRzVlQ.l-cRqtYf9VeGz6IpqPvSuBVgTVI
 owner=298878949461590017
 prefix=6
 game=6help
