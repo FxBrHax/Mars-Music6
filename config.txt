@@ -1,0 +1,6 @@
+﻿token=NTk2MDA5NDAwNTk5MDUyMzA1.XRzTDQ.JaogUcZN2UuCrkVn4AMpu896Y94
+owner=298878949461590017
+prefix=6
+game=6help
+stayinchannel=false
+songinstatus=true 
